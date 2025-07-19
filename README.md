@@ -1,5 +1,4 @@
 <!-- GitHub Profile README for An-Ano-nymus -->
-![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/fd2281d6-3156-4c6d-ae72-a1850c8cf4c6)
 
 <h1 align="center">Hi, I'm Raghav Garg! 👋</h1>
 <p align="center">
